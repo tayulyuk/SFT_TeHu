@@ -1,8 +1,8 @@
 Android
 PlayerPath?
-C:/SFT_Model_OnOff/Model_OnOff/SFT_OnOff.apk
+C:/SFT_Model_OnOff/Model_OnOff/SFT_TempHumi.apk
 SceneListBegin?
-Assets/Scenes/SFT_OnOff.unity
+Assets/Scenes/SFT_TempHumi.unity
 SceneListEnd?
 8c8e424198240cd5381e7765a781213f Assembly-CSharp.dll:.UIButtonMessage
 c4a75f38edea8a816bd024aa376031be Assembly-CSharp.dll:.TweenOrthoSize
@@ -20,7 +20,6 @@ ff05dcdf90651c3d98a9cad3df5e471e UnityEngine.Timeline.dll:UnityEngine.Timeline.C
 607d64d2c4bc76ac9876e6f7b9cc7edf UnityEngine.Timeline.dll:UnityEngine.Timeline.TimelineAsset
 2ea1ff4c399a7dec501e41572c1f2adf Assembly-CSharp.dll:.UIPanel
 9e8fd19b30416be1850d34e30157b592 Assembly-CSharp.dll:.UIDragResize
-03bd95c4f51d547b95c3dfb18a6fc07f Assembly-CSharp.dll:.SwitchingManager
 9b22abfbad118144eb5b662a44df47f7 Assembly-CSharp.dll:.UIForwardEvents
 5e53b881eecd82a7895179d48a39c5ee Assembly-CSharp.dll:.TweenHeight
 50a10e94719c0f5c964597c1c22f9d89 Assembly-CSharp.dll:.ButtonManager
@@ -132,6 +131,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 528ea1fd7c01796fc60c4e2f172ea229 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
 c4a75f38edea8a816bd024aa376031be Assembly-CSharp.dll:.TweenAlpha
 d25057724e4b31ba030cceb84c72270b Assembly-CSharp.dll:.AnimatedWidget
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ViewEvent
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 84679311a8c7fe8a8c6c6a38d864afdb Assembly-CSharp.dll:.UILabel
 cd6a6e8941670a64796d07c5183a3d4f Assembly-CSharp.dll:.UIButton
@@ -178,9 +178,7 @@ cbe311702101a8fd2b4fe90072451a87 Assembly-CSharp.dll:.UIShowControlScheme
 02ed306b5d1a1dd2047e7e40cd36d8c0 Assembly-CSharp.dll:.MqttTest
 7a616dbce92f73c40a3ca496077d8b39 Assembly-CSharp.dll:.ChatInput
 e83a9e5a848f2a14d2ba02d4208df41c Assembly-CSharp.dll:.UITooltip
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.GetAllDataFromArduino
 d416213fcbdab9c579b1328ce6f00d1a Assembly-CSharp.dll:.UIInput
-61ecbe4be39fdf62ec49fbb879464309 Assembly-CSharp.dll:.PowerButtonManager
 3de465526050d8c52418b7a22cbcc972 Assembly-CSharp.dll:.Spin
 d32dd1e592cd63449e0027069541b421 Assembly-CSharp.dll:.UIPlaySound
 19048589047851190ae8b03472fa3a97 Assembly-CSharp.dll:.TweenTransform
@@ -258,7 +256,7 @@ bcdcaf8839db68b83c8c16ec5024c6cc Assembly-CSharp.dll:.ActiveAnimation
 af3c0485a6cfbede261a88cc1b5f8384 Assembly-CSharp.dll:.UI2DSprite
 9921a9f88a3288e106af12d6e3200e55 Assembly-CSharp.dll:.InvDatabase
 a0eede1b5b36a25e94c81bef0c6bc660 Assembly-CSharp.dll:.UIImageButton
-35863c0ee9719166955d2c15e2046c92 Assembly-CSharp.dll:.MqttManager
+a1051b537b39192685e91ada0bf67692 Assembly-CSharp.dll:.MqttManager
 a4eabebcf83f138d76a7d684d942ecc9 Assembly-CSharp.dll:.EquipItems
 e7ae6e9ee8a8a6b2d7860a7212a8416e Assembly-CSharp.dll:.EquipRandomItem
 697b2a99286e9715f6a9eb40c1a24c2f Assembly-CSharp.dll:.UI2DSpriteAnimation

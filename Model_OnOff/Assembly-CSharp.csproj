@@ -225,11 +225,9 @@
      <Compile Include="Assets\NGUI\Scripts\UI\UITexture.cs" />
      <Compile Include="Assets\NGUI\Scripts\UI\UITooltip.cs" />
      <Compile Include="Assets\NGUI\Scripts\UI\UIViewport.cs" />
-     <Compile Include="Assets\PowerButtonManager.cs" />
      <Compile Include="Assets\Scripts\ButtonManager.cs" />
-     <Compile Include="Assets\Scripts\GetAllDataFromArduino.cs" />
      <Compile Include="Assets\Scripts\MqttManager.cs" />
-     <Compile Include="Assets\Scripts\SwitchingManager.cs" />
+     <Compile Include="Assets\ViewEvent.cs" />
      <None Include="Assets\NGUI\Examples\Shaders\Unlit - Depth Cutout.shader" />
      <None Include="Assets\NGUI\ReadMe - 3.12.0.txt" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Masked 1.shader" />
@@ -273,7 +271,7 @@
      <None Include="Assets\NGUI\Examples\Models\Orc Armor\Orc Armor.shader" />
      <None Include="Assets\NGUI\Examples\Resources\Localization.txt" />
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/SFT_Model_OnOff/Model_OnOff/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/SFT_Model_TempHumi/Model_OnOff/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity 2018.1.0b6/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
